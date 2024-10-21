@@ -3,4 +3,6 @@
 Put this file into /etc/vim/ to enable the configuration for
 all users on a machine.
 
+This vim config is inspired from these guys: [freecodecamp](https://www.freecodecamp.org/news/vimrc-configuration-guide-customize-your-vim-editor/)
+
 Happy coding, Jens
