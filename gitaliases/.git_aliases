@@ -1,0 +1,14 @@
+#
+# 20250120 jens heine <binbash@gmx.net>
+#
+# Usefull aliases for working with git
+# Add the line to your .bashrc:
+# . .git_aliases
+#
+alias gl='git log --all --graph --decorate --oneline --name-only -5'
+alias gs='git status'
+alias ga='git add '
+alias gd='git diff '
+alias gc='git commit -m '
+alias gp='git pull'
+alias gpu='git push'
